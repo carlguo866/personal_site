@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import 'a17t/dist/a17t.css';
+@import 'a17t/dist/tailwind.css';
+
+:root {
+    --color-urge-900-root: #1b0a00;
+    --color-urge-800-root: #301b04;
+    --color-urge-700-root: #45311b;
+    --color-urge-600-root: #5b462f;
+    --color-urge-500-root: #725645;
+    --color-urge-400-root: #8a745b;
+    --color-urge-300-root: #7872a2;
+    --color-urge-200-root: #918bbc;
+    --color-urge-100-root: #aaa3d6;
+    --color-urge-50-root: #c4bdf0;
+    --color-urge-000-root: #ddd7f8;
+
+    --color-urge-000-root: #ffffff;
+    --color-neutral-50-root: #ffffff;
+    --color-neutral-100-root: #ffffff;
+    --color-neutral-200-root: #ffffff;
+    --color-neutral-300-root: #ffffff;
+    --color-neutral-400-root: #ffffff;
+    --color-neutral-500-root: #787785;
+    --color-neutral-600-root: #5b5a66;
+    --color-neutral-700-root: #47454e;
+    --color-neutral-800-root: #2b2a30;
+    --color-neutral-900-root: #1f1e22;
+
+    --color-neutral-900: var(--color-neutral-900-root);
+    --color-neutral-800: var(--color-neutral-800-root);
+    --color-neutral-700: var(--color-neutral-700-root);
+    --color-neutral-600: var(--color-neutral-600-root);
+    --color-neutral-500: var(--color-neutral-500-root);
+    --color-neutral-400: var(--color-neutral-400-root);
+    --color-neutral-300: var(--color-neutral-300-root);
+    --color-neutral-200: var(--color-neutral-200-root);
+    --color-neutral-100: var(--color-neutral-100-root);
+    --color-neutral-50: var(--color-neutral-50-root);
+    --color-neutral-000: var(--color-neutral-000-root);
+
+    --color-urge-900: var(--color-urge-900-root);
+    --color-urge-800: var(--color-urge-800-root);
+    --color-urge-700: var(--color-urge-700-root);
+    --color-urge-600: var(--color-urge-600-root);
+    --color-urge-500: var(--color-urge-500-root);
+    --color-urge-400: var(--color-urge-400-root);
+    --color-urge-300: var(--color-urge-300-root);
+    --color-urge-200: var(--color-urge-200-root);
+    --color-urge-100: var(--color-urge-100-root);
+    --color-urge-50: var(--color-urge-50-root);
+    --color-urge-000: var(--color-urge-000-root);
+
+    --code-color: var(--color-urge-700);
+    --code-background: var(--color-neutral-200);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-neutral-000: var(--color-neutral-900-root);
+        --color-neutral-50: var(--color-neutral-800-root);
+        --color-neutral-100: var(--color-neutral-700-root);
+        --color-neutral-200: var(--color-neutral-600-root);
+        --color-neutral-300: var(--color-neutral-500-root);
+        --color-neutral-400: var(--color-neutral-400-root);
+        --color-neutral-500: var(--color-neutral-300-root);
+        --color-neutral-600: var(--color-neutral-200-root);
+        --color-neutral-700: var(--color-neutral-100-root);
+        --color-neutral-800: var(--color-neutral-50-root);
+        --color-neutral-900: var(--color-neutral-000-root);
+
+        --color-urge-000: var(--color-urge-900-root);
+        --color-urge-50: var(--color-urge-800-root);
+        --color-urge-100: var(--color-urge-700-root);
+        --color-urge-200: var(--color-urge-600-root);
+        --color-urge-300: var(--color-urge-500-root);
+        --color-urge-400: var(--color-urge-400-root);
+        --color-urge-500: var(--color-urge-300-root);
+        --color-urge-600: var(--color-urge-200-root);
+        --color-urge-700: var(--color-urge-100-root);
+        --color-urge-800: var(--color-urge-50-root);
+        --color-urge-900: var(--color-urge-000-root);
+    }
+}
+
+:root {
+    --color-title: var(--color-urge-600);
+
+    --border-radius-sm: none;
+    --border-radius-default: none;
+    --border-radius-md: none;
+    --border-radius-lg: none;
+    --border-radius-xl: none;
+
+    --border-width-default: 2px;
+    --border-width-2: 3px;
+    --border-width-4: 5px;
+    --border-width-8: 8px;
+
+    --family-secondary: "Inter", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --family-primary: var(--family-secondary);
+}
+
+.content a {
+    transition: all 100ms ease-in;
+    color: var(--color-urge-600-fallback) !important;
+    text-decoration-color: var(--color-urge-300-fallback) !important;
+}
+
+.content a:hover {
+    color: var(--color-urge-500-fallback) !important;
+    text-decoration-color: var(--color-urge-200-fallback) !important;
+}
+
+.vertical {
+    writing-mode: vertical-rl;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 1rem;
+}
+
+.toc li a {
+    padding: 0.25rem 0.5rem;
+    transition: all 100ms ease-in;
+    display: block;
+
+    color: var(--color-neutral-400-fallback);
+    border-left: 1.5px solid var(--color-neutral-400-fallback);
+}
+
+.toc li a.active {
+    color: var(--color-neutral-600-fallback);
+    border-left-color: var(--color-neutral-600-fallback);
+    /* padding-left: 0.75rem; */
+    border-left-width: 3px;
+}
+
+.toc ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.hover-rotate {
+    transition: transform 100ms ease-in;
+}
+
+.hover-rotate:hover {
+    transform: rotate(10deg);
+}
+
+.MathJax {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/* Syntax highlighting */
+.highlight .hll { background-color: var(--color-warning-100) }
+.highlight .c { color: var(--color-neutral-600); font-style: italic } /* Comment */
+.highlight .err { color: var(--color-warning-700); background-color: #e3d2d2 } /* Error */
+.highlight .k { color: var(--color-neutral-900); font-weight: bold } /* Keyword */
+.highlight .o { color: var(--color-neutral-900); font-weight: bold } /* Operator */
+.highlight .cm { color: var(--color-neutral-600); font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: var(--color-neutral-600); font-weight: bold; font-style: italic } /* Comment.Preproc */
+.highlight .c1 { color: var(--color-neutral-600); font-style: italic } /* Comment.Single */
+.highlight .cs { color: var(--color-neutral-600); font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: var(--color-neutral-900); background-color: #ffdddd } /* Generic.Deleted */
+.highlight .ge { color: var(--color-neutral-900); font-style: italic } /* Generic.Emph */
+.highlight .gr { color: var(--color-warning-500) } /* Generic.Error */
+.highlight .gh { color: var(--color-neutral-600) } /* Generic.Heading */
+.highlight .gi { color: var(--color-neutral-900); background-color: #ddffdd } /* Generic.Inserted */
+.highlight .go { color: var(--color-neutral-700) } /* Generic.Output */
+.highlight .gp { color: var(--color-neutral-700) } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: var(--color-neutral-700) } /* Generic.Subheading */
+.highlight .gt { color: var(--color-warning-500) } /* Generic.Traceback */
+.highlight .kc { color: var(--color-neutral-900); font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: var(--color-neutral-900); font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: var(--color-neutral-900); font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: var(--color-neutral-900); font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { color: var(--color-neutral-900); font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: var(--color-urge-800); font-weight: bold } /* Keyword.Type */
+.highlight .m { color: var(--color-info-700) } /* Literal.Number */
+.highlight .s { color: var(--color-positive-600) } /* Literal.String */
+.highlight .na { color: var(--color-info-700) } /* Name.Attribute */
+.highlight .nb { color: var(--color-info-700) } /* Name.Builtin */
+.highlight .nc { color: var(--color-urge-800); font-weight: bold } /* Name.Class */
+.highlight .no { color: var(--color-info-700) } /* Name.Constant */
+.highlight .nd { color: var(--color-neutral-700); font-weight: bold } /* Name.Decorator */
+.highlight .ni { color: var(--color-urge-700) } /* Name.Entity */
+.highlight .ne { color: var(--color-critical-600); font-weight: bold } /* Name.Exception */
+.highlight .nf { color: var(--color-critical-600); font-weight: bold } /* Name.Function */
+.highlight .nl { color: var(--color-critical-600); font-weight: bold } /* Name.Label */
+.highlight .nn { color: var(--color-neutral-700) } /* Name.Namespace */
+.highlight .nt { color: var(--color-info-800) } /* Name.Tag */
+.highlight .nv { color: var(--color-info-700) } /* Name.Variable */
+.highlight .ow { color: var(--color-neutral-900); font-weight: bold } /* Operator.Word */
+.highlight .w { color: var(--color-info-900) } /* Text.Whitespace */
+.highlight .mf { color: var(--color-info-700) } /* Literal.Number.Float */
+.highlight .mh { color: var(--color-info-700) } /* Literal.Number.Hex */
+.highlight .mi { color: var(--color-info-700) } /* Literal.Number.Integer */
+.highlight .mo { color: var(--color-info-700) } /* Literal.Number.Oct */
+.highlight .sb { color: var(--color-positive-600) } /* Literal.String.Backtick */
+.highlight .sc { color: var(--color-positive-600) } /* Literal.String.Char */
+.highlight .sd { color: var(--color-positive-600) } /* Literal.String.Doc */
+.highlight .s2 { color: var(--color-positive-600) } /* Literal.String.Double */
+.highlight .se { color: var(--color-positive-600) } /* Literal.String.Escape */
+.highlight .sh { color: var(--color-positive-600) } /* Literal.String.Heredoc */
+.highlight .si { color: var(--color-positive-600) } /* Literal.String.Interpol */
+.highlight .sx { color: var(--color-positive-600) } /* Literal.String.Other */
+.highlight .sr { color: var(--color-positive-700) } /* Literal.String.Regex */
+.highlight .s1 { color: var(--color-positive-600) } /* Literal.String.Single */
+.highlight .ss { color: var(--color-critical-800) } /* Literal.String.Symbol */
+.highlight .bp { color: var(--color-neutral-600) } /* Name.Builtin.Pseudo */
+.highlight .vc { color: var(--color-info-700) } /* Name.Variable.Class */
+.highlight .vg { color: var(--color-info-700) } /* Name.Variable.Global */
+.highlight .vi { color: var(--color-info-700) } /* Name.Variable.Instance */
+.highlight .il { color: var(--color-info-700) } /* Literal.Number.Integer.Long */
