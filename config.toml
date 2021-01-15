@@ -9,10 +9,10 @@ unsafe = true
 [taxonomies]
 tag = "tags"
 
-# [[menu.main]]
-# name = "Portfolio"
-# url = "/portfolio/"
-# weight = 1
+[[menu.main]]
+name = "Portfolio"
+url = "/portfolio/"
+weight = 1
 
 # [[menu.main]]
 # name = "Micros"

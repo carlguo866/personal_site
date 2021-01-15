@@ -9,7 +9,7 @@ icon:
   url: /images/avatar.png
   alt: A picture of my face
 ---
-I am an undergraduate at CMU School of Computer Science with interests lying at the intersection of systems and machine learning.
+I am an undergraduate at [CMU School of Computer Science](https://www.cs.cmu.edu/) with interests lying at the intersection of [systems and machine learning](http://ai.stanford.edu/blog/mlsys/).
 
 I'm interested in problems that arise when we attempt to scale machine learning or to explore the very nature of ML. These include but are not limited to recommender systems, next-gen ML framework, MLOps systems, federated learning, and ML interpretability. 
 
