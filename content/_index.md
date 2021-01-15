@@ -6,12 +6,12 @@ description: I build systems for machine learning at scale.
 url: /
 draft: false
 icon:
-  url: /images/dithered_avatar.png
+  url: /images/avatar.png
   alt: A picture of my face
 ---
-I am an undergraduate at CMU School of Computer Science with interests lying at the intersection of systems and machine learning (and also a computational biology and computational finance minor wannabe).
+I am an undergraduate at CMU School of Computer Science with interests lying at the intersection of systems and machine learning.
 
-Problems that arise when we attempt to scale machine learning or to explore the very nature of ML interest me. These include but are not limited to recommender systems, next-gen ML framework, MLOps systems, federated learning, and ML interpretability. 
+I'm interested in problems that arise when we attempt to scale machine learning or to explore the very nature of ML. These include but are not limited to recommender systems, next-gen ML framework, MLOps systems, federated learning, and ML interpretability. 
 
 ### Currently
 
@@ -19,7 +19,9 @@ I am working with [Rashmi K. Vinayak](http://www.cs.cmu.edu/~rvinayak/) and [Jac
 
 I'm incubating an open-source project [Alpaca-Hub](https://alpaca-hub.github.io/) (which could potentially turn into a startup later) as an attempt to provide better versioning in ML workflows. Shoot me an email if you are interested.
 
-I'm rejoining [X Academy](https://www.techx.academy/) this year to kickstart a technical mentorship program for high schoolers to advance their field studies. If you are or know someone who might be interested in becoming a mentor, please email me.
+This year, I'm rejoining [X Academy](https://www.techx.academy/) to kickstart a technical mentorship program for high schoolers to advance their field studies. If you are or know someone who might be interested in becoming a mentor, please email me.
+
+I will be at Uber as a software engineering intern in the US summer 2021.
 
 
 ### Contact
