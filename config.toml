@@ -24,17 +24,17 @@ weight = 1
 # url = "/errata/"
 # weight = 3
 
-[[menu.main]]
-name = "Cool"
-url = "/cool/"
-weight = 4
+# [[menu.main]]
+# name = "Cool"
+# url = "/cool/"
+# weight = 4
 
 # [[menu.main]]
 # name = "Posts"
 # url = "/posts/"
 # weight = 5
 
-# [[menu.main]]
-# name = "Letter"
-# url = "/letter/"
-# weight = 6
+[[menu.main]]
+name = "Misc"
+url = "/misc/"
+weight = 6
