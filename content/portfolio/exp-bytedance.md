@@ -1,6 +1,6 @@
 ---
 title: "ByteDance"
-subtitle: "Recommender systems"
+subtitle: "Live streams recommendation"
 category: Experience
 # tags: ["disinformation", "politics", "ai"]
 dateOverride: "Jun '20 - Aug '20"

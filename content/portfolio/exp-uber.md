@@ -1,13 +1,21 @@
 ---
 title: "Uber"
-subtitle: "To be expected"
+subtitle: "Dish recommendation"
 category: Experience
 # tags: ["disinformation", "politics", "ai"]
-dateOverride: "May '21 - Aug '21"
+dateOverride: "Jun '21 - Aug '21"
 showRelatedTag: null
 date: 2021-01-15T02:41:51Z
 highlightSubtitle: true
 weight: 1
 ---
 
-![uber logo](https://images.ctfassets.net/37l920h5or7f/1AFrzJRVa50waAAYXAMLox/5fec63619a9e18c1a93a04ceabaa0da8/logo_dont_1.png?fm=jpg&q=70&w=1600)
+![uber logo](https://logos-world.net/wp-content/uploads/2020/11/Uber-Eats-Logo.png)
+
+* End-to-end owned, designed, developed, and launched the Uber Eats home feed dish recommendation carousel to 90M global users, boosting top-level business metrics. Coded in Java, Go, PySpark, and HiveQL.
+
+* Implemented DeepMF embedding retrieval using a novel approach that trades-off optimality for efficiency. Elevated recall rate by 4x with the same resource compared to baseline.
+
+* Implemented eater history retrieval based on personalized order and click data.
+
+* Prepared feature pipelines. Trained, tuned, and served a XGBoost model for candidates ranking.
