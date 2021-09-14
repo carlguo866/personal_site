@@ -14,7 +14,7 @@ weight: 1
 
 * End-to-end owned, designed, developed, and launched the Uber Eats home feed dish recommendation carousel to 90M global users, boosting top-level business metrics. Coded in Java, Go, PySpark, and HiveQL.
 
-* Implemented DeepMF embedding retrieval using a novel approach that trades-off optimality for efficiency. Elevated recall rate by 4x with the same resource compared to baseline.
+* Trained and indexed DL embeddings in Uber's homegrown search system. Served embeddings for candidates retrieval using a novel approach that elevated recall rate by 4x with the same resource as baseline.
 
 * Implemented eater history retrieval based on personalized order and click data.
 
