@@ -19,7 +19,9 @@ I declared to major in Artificial Intelligence in Spring 2020. My current GPA is
 (* indicates ongoing courses)
 
 **Computer Science**
+- Database Systems*
 - Distributed Systems
+- Search Engines*
 - Parallel and Sequential Data Structures and Algorithms
 - Introduction to Computer Systems
 - Great Ideas in Theoretical Computer Science
@@ -28,9 +30,10 @@ I declared to major in Artificial Intelligence in Spring 2020. My current GPA is
 - Competitive Programming
 
 **Artificial Intelligence**
-- Advanced Deep Learning*
-- Natural Language Processing*
-- Scalable Machine Learning
+- Deep Learning Systems: Algorithms and Implementation
+- Advanced Deep Learning
+- Natural Language Processing
+- Scalable Machine Learning (also TA-ed in Spring 2021)
 - Introduction to Machine Learning
 - AI: Representation and Problem Solving
 
@@ -39,5 +42,5 @@ I declared to major in Artificial Intelligence in Spring 2020. My current GPA is
 - Probability Theory
 - Linear Algebra
 - Discrete Math
-- Modern Regression*
+- Modern Regression
 - Introduction to Mathematical Finance
