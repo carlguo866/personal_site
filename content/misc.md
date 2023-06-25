@@ -3,7 +3,7 @@ title: "Misc"
 subtitle: ""
 ---
 
-## Photography
+<!-- ## Photography
 
 I own a few SLR/DSLR cameras for photography: Nikon D610, Nikon F3, Rollei 35S. I casually do portrait and candid, digital and film photography.
 
@@ -22,4 +22,4 @@ Here are some samples:
 <br>
 
 ![Sunrise on the Michigan Lake, Chicago (2017)](/media/lake-michigan-sunrise.jpg)
-<p style="text-align: center;">Sunrise on the Michigan Lake, Chicago (2017)</p>
+<p style="text-align: center;">Sunrise on the Michigan Lake, Chicago (2017)</p> -->

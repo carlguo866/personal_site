@@ -1,6 +1,6 @@
 baseURL = "https://tianyuz.com/"
 languageCode = "en-us"
-title = "Tianyu Zhang"
+title = "Zifan (Carl) Guo"
 pygmentsUseClasses = true
 
 [markup.goldmark.renderer]
@@ -9,10 +9,10 @@ unsafe = true
 [taxonomies]
 tag = "tags"
 
-[[menu.main]]
-name = "Portfolio"
-url = "/portfolio/"
-weight = 1
+#[[menu.main]]
+#name = "Portfolio"
+#url = "/portfolio/"
+#weight = 1
 
 # [[menu.main]]
 # name = "Micros"
@@ -39,7 +39,7 @@ name = "Misc"
 url = "/misc/"
 weight = 6
 
-[[menu.main]]
-name = "Resume"
-url = "/tianyu_zhang_resume.pdf"
-weight = 7
+#[[menu.main]]
+#name = "Resume"
+#url = "/tianyu_zhang_resume.pdf"
+#weight = 7
