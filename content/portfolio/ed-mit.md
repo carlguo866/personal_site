@@ -10,41 +10,32 @@ highlightSubtitle: true
 weight: 1
 ---
 
-<!--
-Since September 2018, I've been an undergraduate at [Carnegie Mellon University](https://www.cmu.edu/) [School of Computer Science](https://www.cs.cmu.edu/) in Pittsburgh, PA.
+I've been an undergraduate student since Fall 2022 at [Massachusetts Institute of Technology](https://web.mit.edu/).
 
-I declared to major in Artificial Intelligence in Spring 2020. My current GPA is 3.9/4.0 if that matters.
+I declared to major in Computer Science and Engineering (Course 6-3) in Spring 2023. I'm also on the track to get a major/minor in Political Science (Course 17).
+
+My current GPA is 5.0/5.0 if that matters.
 
 ### Courses
 
-(\* indicates ongoing courses)
+<!-- (\* indicates ongoing courses) -->
 
-**Computer Science**
+**Spring 2023**
 
-- Database Systems\*
-- Distributed Systems
-- Search Engines\*
-- Parallel and Sequential Data Structures and Algorithms
-- Introduction to Computer Systems
-- Great Ideas in Theoretical Computer Science
-- Functional Programming
-- Principles of Software Construction
-- Competitive Programming
+- 6.102 Software Construction
+- 6.390 Introduction to Machine Learning
+- 6.191 Computation Structures
+- 18.06 Linear Algebra
+- 6.190 Low-level Programming in C and Assembly
 
-**Artificial Intelligence**
+**Fall 2022**
 
-- Deep Learning Systems: Algorithms and Implementation
-- Advanced Deep Learning
-- Natural Language Processing
-- Scalable Machine Learning (also TA-ed in Spring 2021)
-- Introduction to Machine Learning
-- AI: Representation and Problem Solving
+- 6.121 Algorithms
+- 6.101 Fundamentals of Programming
+- 18.02A Multivariable Calculus
+- 17.50 Introduction to Comparative Politics
+- 8.01 Physics 1
 
-**Mathematics**
+### Teaching
 
-- Multivariate Calculus
-- Probability Theory
-- Linear Algebra
-- Discrete Math
-- Modern Regression
-- Introduction to Mathematical Finance -->
+I was a Lab-Assistant for 6.101 Fundamentals of Programming in Spring 2023.

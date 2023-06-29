@@ -1,4 +1,4 @@
-baseURL = "https://tianyuz.com/"
+baseURL = "https://carlguo.com/"
 languageCode = "en-us"
 title = "Zifan (Carl) Guo"
 pygmentsUseClasses = true
@@ -34,12 +34,12 @@ weight = 1
 # url = "/posts/"
 # weight = 5
 
-[[menu.main]]
-name = "Misc"
-url = "/misc/"
-weight = 6
-
 #[[menu.main]]
-#name = "Resume"
-#url = "/tianyu_zhang_resume.pdf"
-#weight = 7
+#name = "Misc"
+#url = "/misc/"
+#weight = 6
+
+# [[menu.main]]
+# name = "Resume"
+# url = "/resume.pdf"
+# weight = 7

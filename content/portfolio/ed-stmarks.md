@@ -10,27 +10,25 @@ highlightSubtitle: true
 weight: 2
 ---
 
-<!--
-I went to [Beijing National Day School](http://www.bndsedu.com/) (Chinese: 北京十一学校, and sorry for the our sloppy website) for high school.
-
-Different from what I focus in college (CS), in high school I primarily focused my area of study on mathematical modeling (with Haonan Zhu) and economics (with [Robert Rush](https://www.linkedin.com/in/robert-rush-81331128/)).
-
-Just for fun: here's an economics paper I co-authored with my friend Michael, ["A Developed, Caring, and Sustainable Economy"](https://drive.google.com/file/d/1KGJXqNx6R8cJU9wHr1llnqBjKkzssuXR/view), in which we detailed our ideal model of economy (which we knew was unlikely to be realized any time soon).
+I went to [St. Mark's School](https://www.stmarksschool.org/) for high school.
 
 ### Awards
 
-- Fang-Yuan Scholarship *(for outstanding academic performance)*
-- International Mathematical Modeling Contest (IMMC) 2017 Outstanding Award *(check [this](https://github.com/johnzhang1999/IMMC2017-INTL) out)*
-- Mathematical Contest in Modeling (MCM) 2018 Meritorious Award *(check [this](https://github.com/johnzhang1999/MCM2018) out)*
-- (... and other ones I cannot remember ...)
+- **Cum Laude Society**
+- **The Edward A. Taft '69 Computer Science Prize** <br>
+  _awarded to that student who by interest, curiosity, original thought, and practical application of ideas has acquired a deeper understanding of the field of computer science._
+- **The Association of St. Mark's School Prize** <br> _awarded to one senior through their service to the broader community beyond the St. Mark's campus, enriches both their own life and the life of the greater School._
+- **The Coleman Prize in English** <br> _endowed by Joseph G. Coleman Jr., Class of 1899 & awarded to that student, who, in the judgment of the English Department, has submitted the outstanding essay during this academic year._
+- **National Speech & Debate Association (NSDA) Chinese Nationals Semifinalist, Public Forum Debate**
 
-### Leadership Positions
+### Activities
 
-- Mathematical Modeling Lab *(core member)*
-- Hack Club BNDS *(co-founder)*
-- Student Government *(member of the standing committee)*
-
-### Athletics
-
-- Club Ultimate Frisbee
-- Club Flag Football -->
+- **FIRST Robotics Team 3566 Gone Fishin'** _(Team Captain)_
+- **Debate and Mock Trial** <br>
+  - Participated in 30+ Public Forum Debate regional and national tournaments. Rank 8 for Membership Points in NSDA China Circuit, top 1% of 30,000+ by the time I stopped.
+  - Won Champion and Outstanding Attorney at Peer Potential Mock Trial (PPMT), the biggest Chinese national mock trial tournament, in 2020.
+- **Taft STEM Research Fellowship**
+- **History Research Fellowship** <br>
+  _wrote a [paper](/pdfs/history_fellowship.pdf) on the Conservative Talk Radio and Its Impact on Heightened Partisanship_
+- **Lions Roam: "Race, Racism, and Reconciliation"** <br>
+  _studied the history of racial struggles of African Americans and Native Americans and travelled to the American South and the Navajo Nation_
