@@ -1,16 +1,17 @@
 ---
-title: "Beijing National Day School"
-subtitle: "Class of '18"
+title: "St. Mark's School"
+subtitle: "Southborough, MA"
 category: Education
 tags: []
-dateOverride: "Sep '15 – Jun '18"
-showRelatedTag: bnds
+dateOverride: "Sep '18 – Jun '22"
+showRelatedTag: stmarks
 date: 2021-01-15T02:41:51Z
 highlightSubtitle: true
 weight: 2
 ---
 
-I went to [Beijing National Day School](http://www.bndsedu.com/) (Chinese: 北京十一学校, and sorry for the our sloppy website) for high school. 
+<!--
+I went to [Beijing National Day School](http://www.bndsedu.com/) (Chinese: 北京十一学校, and sorry for the our sloppy website) for high school.
 
 Different from what I focus in college (CS), in high school I primarily focused my area of study on mathematical modeling (with Haonan Zhu) and economics (with [Robert Rush](https://www.linkedin.com/in/robert-rush-81331128/)).
 
@@ -32,4 +33,4 @@ Just for fun: here's an economics paper I co-authored with my friend Michael, ["
 ### Athletics
 
 - Club Ultimate Frisbee
-- Club Flag Football
+- Club Flag Football -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Uber"
 subtitle: "Dish recommendation"
 category: Experience
@@ -18,4 +18,4 @@ weight: 1
 
 * Implemented eater history retrieval based on personalized order and click data.
 
-* Prepared feature pipelines. Trained, tuned, and served a XGBoost model for candidates ranking.
+* Prepared feature pipelines. Trained, tuned, and served a XGBoost model for candidates ranking. -->

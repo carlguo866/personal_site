@@ -10,13 +10,22 @@ icon:
   alt: A picture of my face
 ---
 
-I am a Computer Science undergrad (6-3) at [MIT EECS](https://www.eecs.mit.edu/). I'm interested in making AI and computing systems reliable, safe, and efficient, so they can benefit the humanity at large.
+I am a Computer Science undergrad (6-3) at [MIT EECS](https://www.eecs.mit.edu/). I'm passionate about making AI and computing systems reliable, safe, and efficient so they can benefit the humanity at large.
 
-<!--
-I'm passionate about AI safety. on exploring the nature of machine learning and scaling it to build large systems that generate exponentially more impact. These include but are not limited to recommender systems, DL frameworks and infrastructures, MLOps systems, and federated learning. -->
+### Currently
 
-<!-- ### Currently
+This summer, I'm currently working in the MIT CSAIL [FutureTech Group](https://futuretech.mit.edu/) on a collaborative project with [Epoch AI](https://epochai.org/) on measuring algorithmic progress in language models over time. I also research in MIT CSAIL's [Supertech Research Group](https://supertech.mit.edu/) how to optimizing SQL query compilers with MLIR.
 
+### Publications
+
+[**Measuring the Success of Diffusion Models at Imitating Human Artists**](https://github.com/thestephencasper/sd_cycle_consistency)
+<sub>Stephen Casper*, <ins>Zifan Guo*</ins>, Shreya Mogulothu, Zachary Marinov, Chinmay Deshpande, Rui-Jie Yew, Zheng Dai, and Dylan Hadfield-Menell. Spotlighted in _2023 ICML Workshop on Generative AI and Law (GenLaw)_</sub>
+<sub></sub>
+
+[**Enabling Transformers to Understand Low-Level Programs**](https://ieeexplore.ieee.org/abstract/document/9926313) <br>
+<sub><ins>Zifan Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)_</sub>
+
+<!---
 I am working with [Rashmi K. Vinayak](http://www.cs.cmu.edu/~rvinayak/) and [Jack Kosaian](https://jackkosaian.github.io/) in [TheSys research group](http://www.cs.cmu.edu/~rvinayak/#group) as part of the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) on efficient fault tolerance strategy for embedding tables in distributed deep learning training. We tailor it to work specifically well in modern industrial recommender systems.
 
 My journey with MLSys started from my work at ByteDance. I contributed to the graph embedding models and infrastructure in Douyin and TikTok, now serving 600M+ global users. It did not stop there. This year at Uber, I owned, designed, developed, and launched the Recommended Dishes carousel on the Uber Eats home feed, satisfying the cravings of 90M+ eaters around the world.
@@ -27,8 +36,16 @@ I will be continuing my education at CMU as a fifth-year master in machine learn
 
 ### Contact
 
-You can email me at `carlguo[at]mit[dot]edu`.
-
-<!-- On GitHub, I am [johnzhang1999](https://github.com/johnzhang1999), although I don't post much code on there. We could also connect via LinkedIn at [johnzhangty](https://www.linkedin.com/in/johnzhangty/). -->
+You can email me at `carlguo[at]mit[dot]edu`. You can also find me on [GitHub](https://github.com/carlguo866), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866).
 
 My pronouns are he/him/his. I can speak English and Chinese Mandarin.
+
+### Misc
+
+Before coming to the US for high school, I spent most of my life in Jinan, China, where I'm happy to call home.
+
+In Winter 2023, I competed in MIT [Battlecode](https://battlecode.org/) and won 2nd place. Find a blog about my experience [here](https://battlecode.org/assets/files/postmortem-2023-gone-fishin.pdf). I used to compete in college level Mock Trial, for which I coded a [website](https://tabeasy.org/) for automatic tournament tabulation.
+
+In my free time, I like to make coffee, listen to music on records, and run.
+<br><br>
+**_Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer. ---Rainer Maria Rilke_**
