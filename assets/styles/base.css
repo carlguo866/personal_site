@@ -112,6 +112,17 @@
     text-decoration-color: var(--color-urge-200-fallback) !important;
 }
 
+.list-title {
+    transition: all 100ms ease-in;
+    color: var(--color-urge-600-fallback) !important;
+    text-decoration-color: var(--color-urge-300-fallback) !important;
+}
+
+.list-title:hover {
+    color: var(--color-urge-500-fallback) !important;
+    text-decoration-color: var(--color-urge-200-fallback) !important;
+}
+
 .vertical {
     writing-mode: vertical-rl;
 }

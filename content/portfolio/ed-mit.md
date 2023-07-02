@@ -1,16 +1,17 @@
 ---
 title: "Massachusetts Institute of Technology"
-subtitle: "Cambridge, MA"
+subtitle: "Class of 2026"
 category: Education
 tags: []
-dateOverride: "Sep '22 - Jun '25"
+dateOverride: "Sep '22 - Jun '26"
 showRelatedTag: mit
 # date: 2021-01-15T02:41:51Z
 highlightSubtitle: true
+titleLinked: true
 weight: 1
 ---
 
-I've been an undergraduate student since Fall 2022 at [Massachusetts Institute of Technology](https://web.mit.edu/).
+Since Fall 2022, I've been an undergraduate student at [MIT](https://web.mit.edu/) studying Computer Science (and maybe Political Science).
 
 I declared to major in Computer Science and Engineering (Course 6-3) in Spring 2023. I'm also on the track to get a major/minor in Political Science (Course 17).
 

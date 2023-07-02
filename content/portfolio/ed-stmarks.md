@@ -1,16 +1,17 @@
 ---
 title: "St. Mark's School"
-subtitle: "Southborough, MA"
+subtitle: "Class of 2022"
 category: Education
 tags: []
 dateOverride: "Sep '18 – Jun '22"
 showRelatedTag: stmarks
 date: 2021-01-15T02:41:51Z
 highlightSubtitle: true
+titleLinked: true
 weight: 2
 ---
 
-I went to [St. Mark's School](https://www.stmarksschool.org/) for high school.
+I went to [St. Mark's School](https://www.stmarksschool.org/) in Southborough, MA for high school, where I was fortunate to explore a variety of interdisciplinary interests.
 
 ### Awards
 
@@ -19,6 +20,7 @@ I went to [St. Mark's School](https://www.stmarksschool.org/) for high school.
   _awarded to that student who by interest, curiosity, original thought, and practical application of ideas has acquired a deeper understanding of the field of computer science._
 - **The Association of St. Mark's School Prize** <br> _awarded to one senior through their service to the broader community beyond the St. Mark's campus, enriches both their own life and the life of the greater School._
 - **The Coleman Prize in English** <br> _endowed by Joseph G. Coleman Jr., Class of 1899 & awarded to that student, who, in the judgment of the English Department, has submitted the outstanding essay during this academic year._
+- **USA Computing Olympiad Platinum Division Qualifier**
 - **National Speech & Debate Association (NSDA) Chinese Nationals Semifinalist, Public Forum Debate**
 
 ### Activities

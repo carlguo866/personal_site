@@ -7,13 +7,21 @@
             {{ $icon := resources.Get ($.Param "icon.url") | resources.Fingerprint }}
             <img class="float-right h-32 hover-rotate pl-4" src="{{ $icon.Permalink }}" alt="{{ $.Param "icon.alt" }}">
             {{ end }}
-            <h3 class="inline heading font-bold md:text-5xl">
+            {{ if (not (eq ($.Param "index") nil))}}
+                <h3 class="inline heading font-bold md:text-5xl">
+            {{ else }}
+                <h3 class="inline heading font-bold md:text-3xl">
+            {{ end }}
                 {{ .Title | safeHTML }}
                 {{if (not (eq ($.Param "link") nil))}}
                 &nearr;
                 {{end}}
             </h3>
-            <h3 class="inline heading font-bold md:text-3xl text-neutral-500">
+            {{ if (not (eq ($.Param "index") nil))}}
+                <h3 class="inline heading font-bold md:text-3xl text-neutral-500">
+            {{ else }}
+                <h3 class="inline heading font-bold md:text-2xl text-neutral-500">
+            {{ end }}
                 {{if (not (eq ($.Param "subtitle") nil))}}
                 <br>{{ $.Param "subtitle" | safeHTML }}
                 {{end}}
@@ -24,17 +32,17 @@
     </div>
     <div class="mt-4">
         {{ if (not (eq ($.Param "dateOverride") nil))}}
-        <span class="chip ~neutral !low -ml-2 mb-2">
+        <span class="inline heading font-bold md:text-lg text-neutral-500">
             {{ $.Param "dateOverride" }}
         </span>
         {{ else if (not (eq ($.Param "date") nil))}}
-        <span class="chip ~neutral !low -ml-2 mb-2">
+        <span class="inline heading font-bold md:text-lg text-neutral-500">
             {{ .Date.Format "Jan 2, 2006" }}
         </span>
         {{ end }}
         {{ range (.GetTerms "tags") }}
         {{ if (not (eq (.Param "hidden") true))}}
-        <a class="chip ~neutral !normal mb-2 mr-2" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        <a class="inline heading !normal mb-2 mr-2" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
         {{ end }}
         {{ end }}
     </div>
