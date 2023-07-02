@@ -12,7 +12,7 @@
       <li class="portal text-sm {{ if hasPrefix $currentPage.RelPermalink .URL }} ~urge active {{ end }}">
         <a href="{{ .URL }}">
           {{ .Pre }}
-          <span>{{ .Name }}</span>
+          <span class="underline">{{ .Name }}</span>
           {{ .Post }}
         </a>
       </li>
