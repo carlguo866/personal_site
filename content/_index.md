@@ -6,7 +6,7 @@ description: You can also call me Zifan or 郭子凡.
 url: /
 draft: false
 icon:
-  url: /images/avatar.png
+  url: /images/avatar.jpg
   alt: A picture of my face
 index: true
 ---
