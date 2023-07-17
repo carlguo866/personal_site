@@ -21,15 +21,15 @@ At school, I help run events for [MIT AI Alignment](https://www.mitalignment.org
 
 ## Publications
 
-[**Measuring the Success of Diffusion Models at Imitating Human Artists**](https://www.carlguo.com) <br>
-<sub>Stephen Casper*, <ins>Zifan Guo*</ins>, Shreya Mogulothu, Zachary Marinov, Chinmay Deshpande, Rui-Jie Yew, Zheng Dai, and Dylan Hadfield-Menell. Spotlighted in _2023 ICML Workshop on Generative AI and Law (GenLaw)_ (Link coming soon) ([Twitter](https://twitter.com/StephenLCasper/status/1657468570723561472?s=20))</sub>
+[**Measuring the Success of Diffusion Models at Imitating Human Artists**](https://arxiv.org/abs/2307.04028) <br>
+<sub>Stephen Casper*, <ins>Zifan Guo*</ins>, Shreya Mogulothu, Zachary Marinov, Chinmay Deshpande, Rui-Jie Yew, Zheng Dai, and Dylan Hadfield-Menell. Spotlighted in _2023 ICML Workshop on Generative AI and Law (GenLaw)._ ([arXiv](https://arxiv.org/abs/2307.04028)) ([Twitter](https://twitter.com/StephenLCasper/status/1657468570723561472?s=20))</sub>
 
 [**Enabling Transformers to Understand Low-Level Programs**](https://ieeexplore.ieee.org/abstract/document/9926313)<br>
-<sub><ins>Zifan Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)_</sub>
+<sub><ins>Zifan Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)._</sub>
 
 ## Contact
 
-You can email me at `carlguo[at]mit[dot]edu`. You can also find me on [GitHub](https://github.com/carlguo866), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866). You can find a time to chat [here](https://fantastical.app/carlguo866-91qV/meeting).
+You can email me at `carlguo[at]mit[dot]edu`. You can also find me on [GitHub](https://github.com/carlguo866), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866). You can find a time to chat [here](https://fantastical.app/carlguo866-91qV/meeting). Submit anonynous feedback to me [here](https://www.admonymous.co/carlguo866).
 
 My pronouns are he/him/his. I can speak English and Chinese Mandarin.
 
