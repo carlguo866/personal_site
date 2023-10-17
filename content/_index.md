@@ -11,11 +11,11 @@ icon:
 index: true
 ---
 
-I am a Computer Science undergrad (6-3) at [MIT EECS](https://www.eecs.mit.edu/). I'm passionate about making AI and computing systems interpretable, safe, and efficient so they can benefit humanity at large.
+I am a Computer Science & Math undergrad at [MIT EECS](https://www.eecs.mit.edu/). I'm passionate about making AI and computing systems interpretable, safe, and efficient so they can benefit humanity at large.
 
 ## Research
 
-This fall, I'm working in [Prof. Max Tegmark's lab](tegmark.org) developing ways to mechanistically interpret neural networks and building an automatic pipeline to convert trained models into formally verifiable code.
+This fall, I'm working in [Prof. Max Tegmark's lab](https://tegmark.org/) developing ways to mechanistically interpret neural networks and building an automatic pipeline to convert trained models into formally verifiable code.
 
 I have worked at MIT CSAIL's [FutureTech Group](https://futuretech.mit.edu/) on a collaborative project with [Epoch AI](https://epochai.org/) to measure language models' algorithmic progress and researched SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
 
