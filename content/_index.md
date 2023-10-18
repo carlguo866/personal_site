@@ -11,7 +11,7 @@ icon:
 index: true
 ---
 
-I am a Computer Science & Math undergrad at [MIT EECS](https://www.eecs.mit.edu/). I'm passionate about making AI and computing systems interpretable, safe, and efficient so they can benefit humanity at large.
+I am a Computer Science & Math undergrad at MIT. In general, I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. Specifically, I am interested in topics of AI safety, program synthesis, and performance engineering.
 
 ## Research
 

@@ -1,8 +1,11 @@
 baseURL = "https://carlguo.com/"
 languageCode = "en-us"
-title = "Zifan (Carl) Guo"
+title = "Zifan (Carl) Guo | About & portfolio"
 pygmentsUseClasses = true
 summaryLength = 10
+
+[params]
+Description = "Carl Guo is a Computer Science & Math undergrad at MIT interested in AI safety, program synthesis, and performance engineering."
 
 [markup.goldmark.renderer]
 unsafe = true
