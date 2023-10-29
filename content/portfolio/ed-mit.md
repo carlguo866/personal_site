@@ -1,6 +1,6 @@
 ---
 title: "Massachusetts Institute of Technology"
-subtitle: "Class of 2026"
+subtitle: ""
 category: Education
 tags: []
 dateOverride: "Sep '22 - Jun '26"
