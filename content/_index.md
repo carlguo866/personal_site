@@ -13,11 +13,11 @@ index: true
 
 I am a Computer Science & Math undergrad at MIT. In general, I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. Specifically, I am interested in topics of AI safety, program synthesis, and performance engineering.
 
-## Research
+## Experiences
 
 This fall, I'm working in [Prof. Max Tegmark's lab](https://tegmark.org/) developing ways to mechanistically interpret neural networks and building an automatic pipeline to convert trained models into formally verifiable code.
 
-I have worked at MIT CSAIL's [FutureTech Group](https://futuretech.mit.edu/) on a collaborative project with [Epoch AI](https://epochai.org/) to measure language models' algorithmic progress and researched SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
+I have worked on measuring the algorithmic progress of language models and its role in AI scaling with [Epoch AI](https://epochai.org/) and [MIT FutureTech](https://futuretech.mit.edu/). Before that, I have researched SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
 
 ## Publications
 
