@@ -11,9 +11,10 @@ icon:
 index: true
 ---
 
-I am a Computer Science & Math undergrad at MIT. In general, I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. Specifically, I am interested in topics of AI safety, program synthesis, and performance engineering.
+I am a Computer Science & Math undergrad at MIT. In general, I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. Specifically, I am interested in topics of mechanistic interpretability, program synthesis, and performance engineering.
 
 ## Experiences
+
 
 I now try to understand the science of neural networks and interpret them in [Prof. Max Tegmark's lab](https://tegmark.org/). I have worked on measuring the algorithmic progress of language models and its role in AI scaling with [Epoch AI](https://epochai.org/) and [MIT FutureTech](https://futuretech.mit.edu/). Before that, I have researched neural compilation and SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
 
