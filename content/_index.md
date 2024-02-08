@@ -15,17 +15,18 @@ I am a Computer Science & Math undergrad at MIT. In general, I'm passionate abou
 
 ## Experiences
 
-This fall, I'm working in [Prof. Max Tegmark's lab](https://tegmark.org/) developing ways to mechanistically interpret neural networks and building an automatic pipeline to convert trained models into formally verifiable code.
-
-I have worked on measuring the algorithmic progress of language models and its role in AI scaling with [Epoch AI](https://epochai.org/) and [MIT FutureTech](https://futuretech.mit.edu/). Before that, I have researched SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
+I now try to understand the science of neural networks and interpret them in [Prof. Max Tegmark's lab](https://tegmark.org/). I have worked on measuring the algorithmic progress of language models and its role in AI scaling with [Epoch AI](https://epochai.org/) and [MIT FutureTech](https://futuretech.mit.edu/). Before that, I have researched neural compilation and SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
 
 ## Publications
+
+[**Universal Neurons in GPT2 Language Models**](https://arxiv.org/abs/2401.12181)<br>
+<sub>Wes Gurnee, Theo Horsley, <ins>Zifan Carl Guo</ins>, Tara Rezaei Kheirkhah, Qinyi Sun, Will Hathaway, Neel Nanda, Dimitris Bertsimas. Preprint on _[arXiv](https://arxiv.org/abs/2401.12181)_.</sub>
 
 [**Measuring the Success of Diffusion Models at Imitating Human Artists**](https://arxiv.org/abs/2307.04028) <br>
 <sub>Stephen Casper*, <ins>Zifan Guo*</ins>, Shreya Mogulothu, Zachary Marinov, Chinmay Deshpande, Rui-Jie Yew, Zheng Dai, and Dylan Hadfield-Menell. Spotlighted in _2023 ICML Workshop on Generative AI and Law (GenLaw)._ ([arXiv](https://arxiv.org/abs/2307.04028)) ([Twitter](https://twitter.com/StephenLCasper/status/1657468570723561472?s=20))</sub>
 
 [**Enabling Transformers to Understand Low-Level Programs**](https://ieeexplore.ieee.org/abstract/document/9926313)<br>
-<sub><ins>Zifan Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)._</sub>
+<sub><ins>Zifan Carl Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)._</sub>
 
 ## Contact
 

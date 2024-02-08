@@ -29,7 +29,7 @@ My current GPA is 5.0/5.0 if that matters.
 - 6.S898 Deep Learning 
 - 18.600 Probability and Random Variables
 - 5.111 Principles of Chemical Science
-- 17.46 
+- 17.46 US National Security Policy
 
 **Spring 2023**
 

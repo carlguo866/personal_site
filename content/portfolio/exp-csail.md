@@ -18,7 +18,7 @@ I'm affiliated with the Supertech Group, led by Charles Leiserson, and FutureTec
 
 ### FutureTech Group
 
-- I am working with [Tamay Besiroglu](https://tamaybesiroglu.com/) on measuring AI algorithmic progress.
+- I worked with [Tamay Besiroglu](https://tamaybesiroglu.com/) on measuring AI algorithmic progress.
 
 <!-- ### Misc
 
