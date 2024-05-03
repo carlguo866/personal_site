@@ -23,6 +23,12 @@ My current GPA is 5.0/5.0 if that matters.
 ### Courses
 
 <!-- (\* indicates ongoing courses) -->
+**Spring 2024**
+- 6.820 Sensorimotor Learning
+- 6.122 (6.046) Design and Analysis of Algorithms
+- 6.180 (6.033) Computer Systems Engineering
+- 18.650 Fundamentals of Statistics
+- 21M.385 Interactive Music Systems
 
 **Fall 2023**
 - 6.106 (6.172) Software Performance Engineering 
@@ -48,5 +54,7 @@ My current GPA is 5.0/5.0 if that matters.
 - 8.01 Physics 1
 
 ### Teaching
+
+In Spring 2024, I was a Course Assistant for 6.106 Software Performance Engineering, developing more efficient and modern course infrastructure for benchmarking and grading. 
 
 I was a Lab-Assistant for 6.101 Fundamentals of Programming in Spring 2023.
