@@ -23,6 +23,9 @@ I now try to understand the science of neural networks and interpret them in [Pr
 [**Universal Neurons in GPT2 Language Models**](https://arxiv.org/abs/2401.12181)<br>
 <sub>Wes Gurnee, Theo Horsley, <ins>Zifan Carl Guo</ins>, Tara Rezaei Kheirkhah, Qinyi Sun, Will Hathaway, Neel Nanda, Dimitris Bertsimas. Preprint on _[arXiv](https://arxiv.org/abs/2401.12181)_.</sub>
 
+[**Algorithmic progress in language models**](https://arxiv.org/pdf/2403.05812)<br>
+<sub>Anson Ho, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, <ins>Zifan Carl Guo</ins>, David Atkinson, Neil Thompson, Jaime Sevilla. Preprint on _[arXiv](https://arxiv.org/pdf/2403.05812)_.</sub>
+
 [**Measuring the Success of Diffusion Models at Imitating Human Artists**](https://arxiv.org/abs/2307.04028) <br>
 <sub>Stephen Casper*, <ins>Zifan Guo*</ins>, Shreya Mogulothu, Zachary Marinov, Chinmay Deshpande, Rui-Jie Yew, Zheng Dai, and Dylan Hadfield-Menell. Spotlighted in _2023 ICML Workshop on Generative AI and Law (GenLaw)._ ([arXiv](https://arxiv.org/abs/2307.04028)) ([Twitter](https://twitter.com/StephenLCasper/status/1657468570723561472?s=20))</sub>
 
@@ -31,8 +34,9 @@ I now try to understand the science of neural networks and interpret them in [Pr
 
 ## Contact
 
-You can email me at `carlguo[at]mit[dot]edu`. You can also find me on [GitHub](https://github.com/carlguo866), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866). You can find a time to chat [here](https://fantastical.app/carlguo866-91qV/meeting). Submit anonynous feedback to me [here](https://www.admonymous.co/carlguo866).
+You can email me at `carlguo[at]mit[dot]edu`. You can also find me on [GitHub](https://github.com/carlguo866), [Google Scholar](https://scholar.google.com/citations?hl=en&user=21gQ_owAAAAJ), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866). Submit anonynous feedback to me [here](https://www.admonymous.co/carlguo866).
 
+ <!-- You can find a time to chat [here](https://fantastical.app/carlguo866-91qV/meeting). -->
 My pronouns are he/him/his. I can speak English and Chinese Mandarin.
 
 ## Misc
