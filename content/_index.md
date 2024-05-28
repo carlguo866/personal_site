@@ -11,14 +11,20 @@ icon:
 index: true
 ---
 
-I am a Computer Science & Math undergrad at MIT. In general, I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. Specifically, I am interested in topics of mechanistic interpretability, program synthesis, and performance engineering.
+I am a Computer Science & Math undergrad at MIT. In general, I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. Specifically, I am interested in topics of mechanistic interpretability and high-performance computing.
 
 ## Experiences
+I now try to understand the science of neural networks and interpret them in [Max Tegmark's group](https://tegmark.org/). I have worked on compiler code generation using LLM with [William Moses](https://wsmoses.com/) and neural scaling law at [Epoch AI](https://epochai.org/). 
 
-
-I now try to understand the science of neural networks and interpret them in [Prof. Max Tegmark's lab](https://tegmark.org/). I have worked on measuring the algorithmic progress of language models and its role in AI scaling with [Epoch AI](https://epochai.org/) and [MIT FutureTech](https://futuretech.mit.edu/). Before that, I have researched neural compilation and SQL query compiler optimization in the [Supertech Group](https://supertech.mit.edu/).
+## News
+- **June 3, 2024**: I start as a MLSys Software Engineering Intern at [WeRide](https://www.weride.ai/) this summer!
+- **May 28, 2024**: My paper ["Survival of the Fittest Representation"](https://arxiv.org/abs/2405.17420) is available on arXiv!
+- **May 20, 2024**: I'll be a Undergrad TA for **6.106 (6.172) Software Performance Engineering** in Fall 2024.
 
 ## Publications
+
+[**Survival of the Fittest Representation: A Case Study with Modular Addition**](https://arxiv.org/abs/2405.17420)<br>
+<sub>Xiaoman Delores Ding*, <ins>Zifan Carl Guo*</ins>, Eric J. Michaud, Ziming Liu, Max Tegmark. Under review. [[arXiv]](https://arxiv.org/abs/2405.17420)[[Twitter]](https://x.com/CarlGuo866/status/1795442886940737545)[[Code]](https://github.com/carlguo866/circle-survival)</sub>
 
 [**Universal Neurons in GPT2 Language Models**](https://arxiv.org/abs/2401.12181)<br>
 <sub>Wes Gurnee, Theo Horsley, <ins>Zifan Carl Guo</ins>, Tara Rezaei Kheirkhah, Qinyi Sun, Will Hathaway, Neel Nanda, Dimitris Bertsimas. Preprint on _[arXiv](https://arxiv.org/abs/2401.12181)_.</sub>
