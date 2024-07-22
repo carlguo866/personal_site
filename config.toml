@@ -5,7 +5,7 @@ pygmentsUseClasses = true
 summaryLength = 10
 
 [params]
-Description = "Carl Guo is a Computer Science & Math undergrad at MIT interested in AI safety, program synthesis, and performance engineering."
+Description = "Carl Guo is a Computer Science & Math undergrad at MIT interested in AI safety and performance engineering."
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -14,9 +14,14 @@ unsafe = true
 tag = "tags"
 
 [[menu.main]]
-name = "Portfolio"
-url = "/portfolio/"
+name = "Publications"
+url = "/publications/"
 weight = 1
+
+[[menu.main]]
+name = "CV"
+url = "/portfolio/"
+weight = 5
 
 # [[menu.main]]
 # name = "Micros"
