@@ -1,6 +1,6 @@
 ---
 grouping: category
-title: "Portfolio"
+title: "CV"
 toc: true
 index: true
 ---

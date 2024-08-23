@@ -22,7 +22,7 @@ I now try to understand the science of neural networks and interpret them in [Ma
 - **June 24, 2024**: My paper ["Survival of the Fittest Representation"](https://arxiv.org/abs/2405.17420) is accepted to the ["Mechanistic Interpretability Workshop at ICML"](https://icml2024mi.pages.dev/)!
 - **June 3, 2024**: I start as a MLSys Software Engineering Intern at [WeRide](https://www.weride.ai/) this summer!
 - **May 20, 2024**: I'll be a Undergrad TA for **6.106 (6.172) Software Performance Engineering** in Fall 2024.
-
+<!-- 
 ## Publications
 
 [**Survival of the Fittest Representation: A Case Study with Modular Addition**](https://arxiv.org/abs/2405.17420)<br>
@@ -38,7 +38,7 @@ I now try to understand the science of neural networks and interpret them in [Ma
 <sub>Stephen Casper*, <ins>Zifan Guo*</ins>, Shreya Mogulothu, Zachary Marinov, Chinmay Deshpande, Rui-Jie Yew, Zheng Dai, and Dylan Hadfield-Menell. Spotlighted in _2023 ICML Workshop on Generative AI and Law (GenLaw)._ ([arXiv](https://arxiv.org/abs/2307.04028)) ([Twitter](https://twitter.com/StephenLCasper/status/1657468570723561472?s=20))</sub>
 
 [**Enabling Transformers to Understand Low-Level Programs**](https://ieeexplore.ieee.org/abstract/document/9926313)<br>
-<sub><ins>Zifan Carl Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)._</sub>
+<sub><ins>Zifan Carl Guo</ins>, and William Moses. In _2022 IEEE High Performance Extreme Computing Conference (HPEC)._</sub> -->
 
 ## Contact
 
