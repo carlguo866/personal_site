@@ -1,6 +1,52 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
 @import 'a17t/dist/a17t.css';
 @import 'a17t/dist/tailwind.css';
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap'); */
+
+@font-face {
+    font-family: 'GamuthText';
+    src: url('/fonts/GamuthText-Regular-Trial.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GamuthText';
+    src: url('/fonts/GamuthText-Medium-Trial.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* @font-face {
+    font-family: 'GamuthText';
+    src: url('/fonts/GamuthText-SemiBold-Trial.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+} */
+
+@font-face {
+    font-family: 'GamuthText';
+    src: url('/fonts/GamuthText-Bold-Trial.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GamuthText';
+    src: url('/fonts/GamuthText-ExtraBold-Trial.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GamuthText';
+    src: url('/fonts/GamuthText-Black-Trial.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* :root {
+    --font-family-primary: 'GamuthText', sans-serif;
+} */
 
 :root {
     --color-urge-900-root: #1b0a00;
@@ -97,7 +143,7 @@
     --border-width-4: 5px;
     --border-width-8: 8px;
 
-    --family-secondary: "Inter", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --family-secondary: "GamuthText", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     --family-primary: var(--family-secondary);
 }
 
