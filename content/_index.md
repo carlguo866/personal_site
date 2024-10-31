@@ -16,11 +16,12 @@ I am an undergrad at MIT studying Computer Science. I'm passionate about making 
 Specifically, I wear two hats: the **"science"** hat where I explore model internals through mechanistic interpretability, and the **"engineering"** hat where I make GPUs go brrrrr.
 
 ## Experiences
-I'm currently an undergrad TA for 6.106 (6.172) Software Performance Engineering. I have worked on understanding neural network training dynamics in [Max Tegmark's group](https://tegmark.org/), compiler code generation using LLM with [William Moses](https://wsmoses.com/) and neural scaling law at [Epoch AI](https://epochai.org/). See a list of my publications [here](/publications). 
+I'm currently a TA for 6.106 (6.172) Software Performance Engineering. I have worked on understanding neural network training dynamics in [Max Tegmark's group](https://tegmark.org/), compiler code generation using LLM with [William Moses](https://wsmoses.com/) and neural scaling law at [Epoch AI](https://epochai.org/). See a list of my publications [here](/publications). 
 
 ## News
+- **September 25, 2024**: Paper ["Algorithmic Progress in Language Models"](https://arxiv.org/pdf/2403.05812) is accepted as a poster at NeurIPS 2024!
 - **June 24, 2024**: My paper ["Survival of the Fittest Representation"](https://arxiv.org/abs/2405.17420) is accepted to the ["Mechanistic Interpretability Workshop at ICML"](https://icml2024mi.pages.dev/)!
-- **June 3, 2024**: I start as a MLSys Software Engineering Intern at [WeRide](https://www.weride.ai/) this summer!
+<!-- - **June 3, 2024**: I start as a MLSys Software Engineering Intern at [WeRide](https://www.weride.ai/) this summer! -->
 
 <!-- 
 ## Publications
