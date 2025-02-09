@@ -22,9 +22,22 @@ My current GPA is 5.0/5.0 if that matters.
 
 ### Courses
 
-<!-- (\* indicates ongoing courses) -->
+(\* indicates graduate courses)
+
+**Spring 2025**
+- 6.110 Compilers
+- 6.5840 Distributed Systems\*
+- 8.02 Physics II
+- 17.517 Political Utopia and Dystopia
+- 21L.011 Intro to Film Studies
+
+**Fall 2024**
+- 6.861 Quantitative Methods for NLP
+- 6.S898 Accelerated Computing\*
+- 21L.040 Foundations of East Asian Literature
+
 **Spring 2024**
-- 6.820 Sensorimotor Learning
+- 6.820 Sensorimotor Learning\*
 - 6.122 (6.046) Design and Analysis of Algorithms
 - 6.180 (6.033) Computer Systems Engineering
 - 18.650 Fundamentals of Statistics
@@ -32,7 +45,7 @@ My current GPA is 5.0/5.0 if that matters.
 
 **Fall 2023**
 - 6.106 (6.172) Software Performance Engineering 
-- 6.S898 Deep Learning 
+- 6.S898 Deep Learning\*
 - 18.600 Probability and Random Variables
 - 5.111 Principles of Chemical Science
 - 17.46 US National Security Policy
@@ -55,6 +68,6 @@ My current GPA is 5.0/5.0 if that matters.
 
 ### Teaching
 
-In Spring 2024, I was a Course Assistant for 6.106 Software Performance Engineering, developing more efficient and modern course infrastructure for benchmarking and grading. 
+I was a UTA Course Assistant for 6.106 (6.172) Software Performance Engineering, developing and maintaining more efficient and modern course infrastructure for benchmarking and grading. 
 
 I was a Lab-Assistant for 6.101 Fundamentals of Programming in Spring 2023.
