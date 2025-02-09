@@ -4,7 +4,7 @@ subtitle: ""
 index: true
 ---
 
-In my free time, I like to make coffee, listen to music on records, and run.
+In my free time, I like to cook, make coffee, and listen to music on records.
 
 ### Coffee
 
@@ -26,18 +26,7 @@ My favorite bands are:
 
 - King Crimson
 - Pink Floyd
-- Yes
 - King Gizzard & The Lizzard Wizard
+- Radiohead
 - 万能青年旅店 Omnipotent Youth Society
 - 福禄寿 FloruitShow
-
-### People
-
-Here are some people who inspired me & I'm grateful for:
-<br><sub>(non-exhaustive, in no particular order)</sub>
-
-- Sunny Li
-- Billy Moses
-- Lora Xie
-- Yuxuan Chen
-- Cathy Zhou

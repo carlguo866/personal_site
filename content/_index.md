@@ -11,12 +11,14 @@ icon:
 index: true
 ---
 
-I am an undergrad at MIT studying Computer Science. I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large. 
+I am an undergrad at MIT studying Computer Science. I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large; specifically, I am interested in interpretability and performance engineering.
 
-Specifically, I wear two hats: the **"science"** hat where I explore model internals through mechanistic interpretability, and the **"engineering"** hat where I make GPUs go brrrrr.
+<!-- Specifically, I wear two hats: the **"science"** hat where I explore model internals through mechanistic interpretability, and the **"engineering"** hat where I make GPUs go brrrrr. -->
 
 ## Experiences
-I'm currently a TA for 6.106 (6.172) Software Performance Engineering. I have worked on understanding neural network training dynamics in [Max Tegmark's group](https://tegmark.org/), compiler code generation using LLM with [William Moses](https://wsmoses.com/) and neural scaling law at [Epoch AI](https://epochai.org/). See a list of my publications [here](/publications). 
+I currently work on understanding LM's [internal world models](https://lingo.csail.mit.edu/blog/world_models/) in [Prof. Jacob Andreas's group](https://lingo.csail.mit.edu/), and have previously worked on training dynamics with [Prof. Max Tegmark](https://tegmark.org/).
+
+I've also thought a lot about performance engineering as a TA for 6.106 (6.172) Software Performance Engineering and as an intern at [Together AI](https://together.ai/) and [WeRide.ai](https://www.weride.ai/). See a list of my publications [here](/publications). 
 
 ## News
 - **September 25, 2024**: Paper ["Algorithmic Progress in Language Models"](https://arxiv.org/pdf/2403.05812) is accepted as a poster at NeurIPS 2024!
@@ -50,10 +52,11 @@ My pronouns are he/him/his. I can speak English and Chinese Mandarin.
 
 ## Misc
 
-Before coming to the US for high school, I spent most of my life in Jinan, China, where I'm happy to call home.
+I went to [St. Mark's School](https://www.stmarksschool.org/) in Southborough, MA. Before coming to the US for high school, I spent most of my life in Jinan, China, where I'm happy to call home.
 
 In Winter 2023, I competed in MIT [Battlecode](https://battlecode.org/) and won 2nd place (read more [here](/portfolio/proj-battlecode)). I used to compete in college-level Mock Trial, for which I coded a [website](https://tabeasy.org/) for automatic tournament tabulation.
 
-In my free time, I like to make coffee, listen to music on records, and run.
+In my free time, I do stand-up comedy, cook, and make coffee.
+
 <br><br><br>
 **_Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer. ---Rainer Maria Rilke_**
