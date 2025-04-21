@@ -4,6 +4,8 @@ subtitle: ""
 index: true
 ---
 
+[**(How) Do Language Models Track State?**](https://arxiv.org/abs/2503.02854)
+<sub>Belinda Z. Li, <ins>Zifan Carl Guo</ins>, Jacob Andreas. Preprint on arXiv.  [[arXiv]](https://arxiv.org/abs/2503.02854)[[Twitter]](https://x.com/CarlGuo866/status/1899987307601490322)[[Code]](https://github.com/belindal/state-tracking)</sub>
 
 [**Survival of the Fittest Representation: A Case Study with Modular Addition**](https://arxiv.org/abs/2405.17420)<br>
 <sub>Xiaoman Delores Ding*, <ins>Zifan Carl Guo*</ins>, Eric J. Michaud, Ziming Liu, Max Tegmark. In _Mechanistic Interpretability Workshop at the ICML 2024_. [[arXiv]](https://arxiv.org/abs/2405.17420)[[Twitter]](https://x.com/CarlGuo866/status/1795442886940737545)[[Code]](https://github.com/carlguo866/circle-survival)</sub>

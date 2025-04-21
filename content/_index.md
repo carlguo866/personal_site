@@ -21,6 +21,7 @@ I currently work on understanding LM's [internal world models](https://lingo.csa
 I've also thought a lot about performance engineering as a TA for 6.106 (6.172) Software Performance Engineering and as an intern at [Together AI](https://together.ai/) and [WeRide.ai](https://www.weride.ai/). See a list of my publications [here](/publications). 
 
 ## News
+- **March 4, 2025** Paper ["(How) Do Language Models Track State?"](https://arxiv.org/abs/2503.02854) is on arXiv!
 - **September 25, 2024**: Paper ["Algorithmic Progress in Language Models"](https://arxiv.org/pdf/2403.05812) is accepted as a poster at NeurIPS 2024!
 - **June 24, 2024**: My paper ["Survival of the Fittest Representation"](https://arxiv.org/abs/2405.17420) is accepted to the ["Mechanistic Interpretability Workshop at ICML"](https://icml2024mi.pages.dev/)!
 <!-- - **June 3, 2024**: I start as a MLSys Software Engineering Intern at [WeRide](https://www.weride.ai/) this summer! -->
