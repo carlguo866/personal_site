@@ -18,7 +18,8 @@ Here's a piece of latte art:
 ![Latte Art](/media/latte-art.jpg)
 <br>
 
-My favorite coffee shop is George Howell Coffee in Boston's Downtown Crossing.
+My favorite coffee shop in Boston is George Howell Coffee. Worldwide it might be Prolog in Copenhagen. 
+I get coffee from Onyx Coffee Lab. 
 
 ### Music
 

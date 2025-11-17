@@ -11,19 +11,20 @@ icon:
 index: true
 ---
 
-I am an undergrad at MIT studying Computer Science. I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large; specifically, I am interested in interpretability and performance engineering.
+I am an undergrad & MEng at MIT studying Computer Science. I'm passionate about making AI and computing systems safe and efficient so they can benefit humanity at large; specifically, I am interested in interpretability and performance engineering.
 
 <!-- Specifically, I wear two hats: the **"science"** hat where I explore model internals through mechanistic interpretability, and the **"engineering"** hat where I make GPUs go brrrrr. -->
 
 ## Experiences
-I currently work on understanding LM's [internal world models](https://lingo.csail.mit.edu/blog/world_models/) in [Prof. Jacob Andreas's group](https://lingo.csail.mit.edu/), and have previously worked on training dynamics with [Prof. Max Tegmark](https://tegmark.org/).
+I currently work on understanding LM's [internal world models](https://lingo.csail.mit.edu/blog/world_models/) in [Prof. Jacob Andreas's group](https://lingo.csail.mit.edu/), and have previously worked on training dynamics with [Prof. Max Tegmark](https://tegmark.org/). See a list of my publications [here](/publications). 
 
-I've also thought a lot about performance engineering as a TA for 6.106 (6.172) Software Performance Engineering and as an intern at [Together AI](https://together.ai/) and [WeRide.ai](https://www.weride.ai/). See a list of my publications [here](/publications). 
+I've also thought a lot about performance engineering as a TA for 6.106 (6.172) Software Performance Engineering and as an intern at [Jump Trading](https://www.jumptrading.com/) and [Together AI](https://together.ai/). 
 
 ## News
-- **March 4, 2025** Paper ["(How) Do Language Models Track State?"](https://arxiv.org/abs/2503.02854) is on arXiv!
+- **November 16, 2025** Paper ["Training Language Models to Explain Their Own Computations"](https://arxiv.org/abs/2511.08579) is available on arXiv. 
+- **July 13, 2025** Paper ["(How) Do Language Models Track State?"](https://arxiv.org/abs/2503.02854) will appear at ICML 2025!
 - **September 25, 2024**: Paper ["Algorithmic Progress in Language Models"](https://arxiv.org/pdf/2403.05812) is accepted as a poster at NeurIPS 2024!
-- **June 24, 2024**: My paper ["Survival of the Fittest Representation"](https://arxiv.org/abs/2405.17420) is accepted to the ["Mechanistic Interpretability Workshop at ICML"](https://icml2024mi.pages.dev/)!
+<!-- - **June 24, 2024**: My paper ["Survival of the Fittest Representation"](https://arxiv.org/abs/2405.17420) is accepted to the ["Mechanistic Interpretability Workshop at ICML"](https://icml2024mi.pages.dev/)! -->
 <!-- - **June 3, 2024**: I start as a MLSys Software Engineering Intern at [WeRide](https://www.weride.ai/) this summer! -->
 
 <!-- 
