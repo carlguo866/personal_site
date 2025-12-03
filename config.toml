@@ -18,10 +18,10 @@ name = "Publications"
 url = "/publications/"
 weight = 1
 
-[[menu.main]]
-name = "CV"
-url = "/cv/"
-weight = 5
+# [[menu.main]]
+# name = "CV"
+# url = "/cv/"
+# weight = 5
 
 # [[menu.main]]
 # name = "Micros"
