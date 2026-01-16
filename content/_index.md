@@ -56,7 +56,7 @@ My pronouns are he/him/his. I can speak English and Chinese Mandarin.
 
 I went to [St. Mark's School](https://www.stmarksschool.org/) in Southborough, MA. Before coming to the US for high school, I spent most of my life in Jinan, China, where I'm happy to call home.
 
-In Winter 2023, I competed in MIT [Battlecode](https://battlecode.org/) and won 2nd place (read more [here](/portfolio/proj-battlecode)). I used to compete in college-level Mock Trial, for which I coded a [website](https://tabeasy.org/) for automatic tournament tabulation.
+In Winter 2023, I competed in MIT [Battlecode](https://battlecode.org/) and won 2nd place (read more [here](https://github.com/carlguo866/battlecode23-gonefishin/)). I used to compete in college-level Mock Trial, for which I coded a [website](https://tabeasy.org/) for automatic tournament tabulation.
 
 In my free time, I do stand-up comedy, cook, and make coffee.
 
