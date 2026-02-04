@@ -47,7 +47,7 @@ I've also thought a lot about performance engineering as a TA for 6.106 (6.172) 
 
 ## Contact
 
-You can email me at `carlguo[at]mit[dot]edu`. You can also find me on [GitHub](https://github.com/carlguo866), [Google Scholar](https://scholar.google.com/citations?hl=en&user=21gQ_owAAAAJ), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866). Submit anonynous feedback to me [here](https://www.admonymous.co/carlguo866).
+You can email me at `carlguo866[at]gmail[dot]com`. You can also find me on [GitHub](https://github.com/carlguo866), [Google Scholar](https://scholar.google.com/citations?hl=en&user=21gQ_owAAAAJ), [LinkedIn](https://www.linkedin.com/in/zifan-carl-guo), or [Twitter](https://twitter.com/CarlGuo866). Submit anonynous feedback to me [here](https://www.admonymous.co/carlguo866).
 
  <!-- You can find a time to chat [here](https://fantastical.app/carlguo866-91qV/meeting). -->
 My pronouns are he/him/his. I can speak English and Chinese Mandarin.
