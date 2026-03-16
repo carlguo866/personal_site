@@ -21,6 +21,7 @@ I currently work on understanding LM's [internal world models](https://lingo.csa
 I've also thought a lot about performance engineering as a TA for 6.106 (6.172) Software Performance Engineering and as an intern at [Jump Trading](https://www.jumptrading.com/) and [Together AI](https://together.ai/). 
 
 ## News
+- **March 5, 2026**: Paper ["Position: It's Time to Optimize for Self-Consistency"](https://time-for-consistency.github.io/) is out!
 - **November 16, 2025** Paper ["Training Language Models to Explain Their Own Computations"](https://arxiv.org/abs/2511.08579) is available on arXiv. 
 - **July 13, 2025** Paper ["(How) Do Language Models Track State?"](https://arxiv.org/abs/2503.02854) will appear at ICML 2025!
 - **September 25, 2024**: Paper ["Algorithmic Progress in Language Models"](https://arxiv.org/pdf/2403.05812) is accepted as a poster at NeurIPS 2024!
@@ -56,9 +57,9 @@ My pronouns are he/him/his. I can speak English and Chinese Mandarin.
 
 I went to [St. Mark's School](https://www.stmarksschool.org/) in Southborough, MA. Before coming to the US for high school, I spent most of my life in Jinan, China, where I'm happy to call home.
 
-In Winter 2023, I competed in MIT [Battlecode](https://battlecode.org/) and won 2nd place (read more [here](https://github.com/carlguo866/battlecode23-gonefishin/)). I used to compete in college-level Mock Trial, for which I coded a [website](https://tabeasy.org/) for automatic tournament tabulation.
+<!-- In Winter 2023, I competed in MIT [Battlecode](https://battlecode.org/) and won 2nd place (read more [here](https://github.com/carlguo866/battlecode23-gonefishin/)). I used to compete in college-level Mock Trial, for which I coded a [website](https://tabeasy.org/) for automatic tournament tabulation. -->
 
-In my free time, I do stand-up comedy, cook, and make coffee.
+In my free time, I try to do stand-up comedy, cook, and make coffee.
 
 <br><br><br>
 **_Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer. ---Rainer Maria Rilke_**

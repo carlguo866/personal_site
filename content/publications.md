@@ -3,6 +3,8 @@ title: "Publications"
 subtitle: ""
 index: true
 ---
+[**Position: It's Time to Optimize for Self-Consistency**](https://time-for-consistency.github.io/)<br>
+<sub>Itamar Pres*, Belinda Z. Li*, Laura Ruis*, <ins>Zifan Carl Guo</ins>, Keya Hu, Mehul Damani, Isha Puri, Ekdeep Singh Lubana, Jacob Andreas. <br> Preprint. [[preprint]](https://time-for-consistency.github.io/)[[Twitter]](https://x.com/PresItamar/status/2029622543313678519?s=20)</sub>
 
 [**Training Language Models to Explain Their Own Computations**](https://arxiv.org/abs/2511.08579)<br>
 <sub>Belinda Z. Li, <ins>Zifan Carl Guo</ins>, Vincent Huang, Jacob Steinhardt, Jacob Andreas. <br> Preprint. [[arXiv]](https://arxiv.org/abs/2511.08579)[[Twitter]](https://x.com/TransluceAI/status/1989395421236793374?s=20)[[Blog]](https://transluce.org/self-explanations)</sub>
