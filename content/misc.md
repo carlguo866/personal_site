@@ -19,7 +19,6 @@ Here's a piece of latte art:
 <br>
 
 My favorite coffee shop in Boston is George Howell Coffee. Worldwide it might be Prolog in Copenhagen. 
-I get coffee from Onyx Coffee Lab. 
 
 ### Music
 
